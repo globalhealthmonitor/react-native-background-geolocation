@@ -1,6 +1,6 @@
 {
   "name": "@globalhealthmonitor/react-native-background-geolocation",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "optimized background location tracking",
   "main": "./index.js",
   "types": "./index.d.ts",
@@ -27,7 +27,6 @@
     "ios"
   ],
   "author": "Marian Hello",
-  "license": "Apache-2.0",
   "dependencies": {
     "plist": "^3.0.1"
   },
