@@ -15,12 +15,6 @@ jobs:
           registry-url: https://npm.pkg.github.com
       - name: Install
         run: yarn install
-      - name: Build
-        run: yarn build
-      - name: Generate Types
-        run: yarn types
-      - name: Copy build files
-        run: yarn build:copy
       - name: Publish Package
         run: npm publish
         env:
