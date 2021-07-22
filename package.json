@@ -30,7 +30,7 @@
   "dependencies": {
     "plist": "^3.0.1"
   },
-  "homepage": "https://github.com/globalhealthmonitor/react-native-background-geolocation#readme
+  "homepage": "https://github.com/globalhealthmonitor/react-native-background-geolocation#readme",
   "peerDependencies": {
     "react-native": ">=0.60.5"
   }
