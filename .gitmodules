@@ -1,6 +1,6 @@
 [submodule "ios-common"]
 	path = ios/common
-	url = https://github.com/globalhealthmonitor/background-geolocation-ios
+	url = git@github.com:globalhealthmonitor/background-geolocation-ios.git
 [submodule "android-common"]
 	path = android/common
-	url = https://github.com/globalhealthmonitor/background-geolocation-android
+	url = git@github.com:globalhealthmonitor/background-geolocation-android.git
